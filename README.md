@@ -48,7 +48,10 @@ Upload an image and enjoy your custom palette!
 ⚡Future Enhancements
 
 📁 Drag-and-drop image support
+
 🎯 Allow user to select number of colors (k value)
+
 📋 Copy-to-clipboard button for HEX codes
+
 📊 Show RGB values alongside HEX
 
